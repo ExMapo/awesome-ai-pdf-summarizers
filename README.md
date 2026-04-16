@@ -4,8 +4,6 @@ A curated list of the best AI-powered PDF summarizer tools for students, researc
 
 This repository helps you discover tools that can summarize PDFs, extract key insights, chat with documents, and even convert PDFs into structured formats like mind maps.
 
----
-
 ## Table of Contents
 
 * [Why this list exists](#why-this-list-exists)
@@ -24,8 +22,6 @@ This repository helps you discover tools that can summarize PDFs, extract key in
 * [Related Lists](#related-lists)
 * [License](#license)
 
----
-
 ## Why this list exists
 
 There are hundreds of tools claiming to summarize PDFs using AI, but most lists are outdated or unstructured.
@@ -37,8 +33,6 @@ This repository provides a **clean, categorized, and regularly updated list** of
 * Improve research and study workflows
 * Convert documents into structured knowledge
 
----
-
 ## What’s included
 
 * AI PDF summarizers
@@ -48,7 +42,6 @@ This repository provides a **clean, categorized, and regularly updated list** of
 * PDF-to-mind map tools
 * Browser-based and SaaS tools
 
----
 
 ## Categories
 
@@ -60,7 +53,6 @@ This repository provides a **clean, categorized, and regularly updated list** of
 * Enterprise / Workflow Tools
 * Free Tools
 
----
 
 ## Comparison Table
 
@@ -82,7 +74,6 @@ This repository provides a **clean, categorized, and regularly updated list** of
 * [Jotform AI PDF Summarizer](https://www.jotform.com/ai/summarizer/pdf/) — Easy-to-use summarizer with clean UI.
 * [ILovePDF Summarizer](https://www.ilovepdf.com/pdf-summarize) — Lightweight and fast PDF summarizer.
 
----
 
 ## Research & Academic Tools
 
@@ -91,7 +82,6 @@ This repository provides a **clean, categorized, and regularly updated list** of
 * [Sharly AI](https://sharly.ai/) — AI research assistant with document understanding.
 * [Decopy AI](https://decopy.ai/pdf-summarizer/) — Focused on academic summarization.
 
----
 
 ## PDF Chat Tools
 
@@ -99,27 +89,23 @@ This repository provides a **clean, categorized, and regularly updated list** of
 * [NoteGPT](https://notegpt.io/pdf-summary) — Combines summarization with interactive chat.
 * [Foxit AI PDF Summarizer](https://www.foxit.com/ai/pdf-summarizer/) — Enterprise-grade PDF assistant.
 
----
 
 ## PDF to Mind Map Tools
 
-* [MindMap AI PDF to Mind Map](https://mindmapai.app/pdf-to-mindmap) — Converts PDFs into visual mind maps.
+* [AI PDF to Mind Map](https://mindmapai.app/pdf-to-mindmap) — Converts PDFs into visual mind maps.
 
----
 
 ## Browser-Based Tools
 
 * [PDFCandy](https://pdfcandy.com/pdf-summarizer.html) — No installation required.
 * [ILovePDF](https://www.ilovepdf.com/pdf-summarize) — Fast and accessible tool.
-
----
+  
 
 ## Enterprise / Workflow Tools
 
 * [Foxit AI](https://www.foxit.com/ai/pdf-summarizer/) — Integrated into professional PDF workflows.
 * [n8n AI PDF Tool](https://n8n.io/tools/ai-pdf-summarizer/) — Automation-based document processing.
 
----
 
 ## Free Tools
 
@@ -141,7 +127,6 @@ Tools included in this list are selected based on:
 * Accessibility (web, SaaS, or app-based)
 * Active and maintained products
 
----
 
 ## Who this is for
 
@@ -154,7 +139,6 @@ This repository is useful for:
 * Teams handling reports and documents
 * Anyone working with large PDFs
 
----
 
 ## Contributing
 
@@ -169,7 +153,6 @@ Before submitting, make sure the tool:
 
 Open a pull request or submit an issue.
 
----
 
 ## Submission Format
 
@@ -182,23 +165,20 @@ Please use this format:
 * Short description:
 * Why it should be included:
 
----
 
 ## Related Lists
 
-* Awesome AI Mind Mapping Tools
-* Awesome Productivity Tools
-* Awesome Research Tools
-* Awesome Note-Taking Tools
+* [Awesome AI Mind Mapping Tools](https://github.com/ExMapo/awesome-ai-mind-mapping-tools)
+* [Awesome Network Mindmaps](https://github.com/ExMapo/awesome-network-mind-maps)
+* [Mind Maps for Solopreneur 10X](https://github.com/ExMapo/solopreneur-10x)
+* [Awesome Blockchain Mindmaps](https://github.com/ExMapo/awesome-blockchain-mind-maps)
 
----
 
 ## Notes
 
 Features, pricing, and availability may change over time.
 Please check official websites for the latest updates.
 
----
 
 ## License
 
